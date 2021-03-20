@@ -1,0 +1,11 @@
+v   0.1.0   (2013-12-04)
+========================
+    - Define Project Structure
+    - Add basic settings of project
+    - Add required gitignore files
+    - Add Project Requirements
+    - Add basic required library apps
+        - accounts
+    - Add required bash and python scripts
+    - Add Installation and Contribution Guide
+    - Add API documentaion
